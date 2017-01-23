@@ -183,6 +183,7 @@
 	* TBD
 * Project:
 	* TBD
+    
 ## Resources
 
 ### Link Dump
@@ -198,4 +199,4 @@ Make sure to add a TDLR to any link you add to this list!
 
 ######Frameworks:
 
-######Talks & Tutorials: 
+######Talks & Tutorials:
