@@ -8,16 +8,14 @@
 
 ### Core Topics
 
-####Architectural patterns
 
-####Reference Cycles/Memory Management
-
-####Testing
-
-####Generics
-
-####Documentation Best Practices
-
+| Topic                                                         | Class Periods    |
+| ------------------------------------------------------------- |:----------------:|
+|Reference Cycles (ARC) / XCode Debugging                       | 3 Classes        |
+|MVVM / Different architectures (Protocol-oriented programming) | 3 Classes        |
+|Testing (Unit/UI)                                              | 3 Classes        |
+|Generics                                                       | 1 Class          |  
+|Documentation                                                  | 1 Class          |  
 
 ### Elective Topics
 
