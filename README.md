@@ -1,8 +1,13 @@
 #Q3 iOS Documents and Projects
 
+
+## How to Contribute
+
+#####Make a directory for each subject. Include /Sample-Projects and /Resources folders to organize the content.  
 ## Course Overview
 
 ### Core Topics
+
 
 | Topic                                                         | Class Periods    |
 | ------------------------------------------------------------- |:----------------:|
@@ -12,13 +17,7 @@
 |Generics                                                       | 1 Class          |  
 |Documentation                                                  | 1 Class          |  
 
-
-- Reference Cycles (ARC) / XCode Debugging
-- MVVM / Different architectures (Protocol-oriented programming
-- Testing (Unit/UI)
-- Generics
-- Documentation
-
 ### Elective Topics
 
 ## Course Calendar
+
