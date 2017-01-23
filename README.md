@@ -8,6 +8,17 @@
 
 ### Core Topics
 
+####Architectural patterns
+
+####Reference Cycles/Memory Management
+
+####Testing
+
+####Generics
+
+####Documentation Best Practices
+
+
 ### Elective Topics
 
 ## Course Calendar
