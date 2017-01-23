@@ -3,8 +3,7 @@
 
 ## How to Contribute
 
-Make a directory for each subject. Include /Sample-Projects and /Resources folders to organize the content.  
--------------------------------
+#####Make a directory for each subject. Include /Sample-Projects and /Resources folders to organize the content.  
 ## Course Overview
 
 ### Core Topics
