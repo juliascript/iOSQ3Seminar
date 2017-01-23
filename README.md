@@ -183,3 +183,19 @@
 	* TBD
 * Project:
 	* TBD
+## Resources
+
+### Link Dump
+
+Many of us pull from Realm talks or some interesting topics covered at the year's past WWDC. Feel free to share your favorite pods & frameworks that you've come across in development :-)
+
+Make sure to add a TDLR to any link you add to this list!
+
+######Example:
+* [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+######Pods:
+
+######Frameworks:
+
+######Talks & Tutorials: 
