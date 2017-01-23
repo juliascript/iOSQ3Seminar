@@ -34,8 +34,8 @@
 | Exporting own library             | Nick, Jay, Carlos, Winnie, Alex D    |
 | macOS                             |                                      |
 | watchOS                           | Bob, Fiona                           |
-| Deep linking                      |                                      |
-| App Store SEO                     |                                      |
+| Deep linking                      | Fiona                                |
+| App Store SEO                     | Fiona                                |
 
 ## Course Schedule
 #### Q3 Dates: Monday, January 23 – Wednesday, March 1, 2017 (6 weeks)
@@ -55,7 +55,7 @@
 	* ARC
 	* Weak , strong, and unknown self
 	* Common mistakes with memory management
-	* Lazy, variable observers, KVO 
+	* Lazy, variable observers, KVO
 	* Table View
 * Challenges:
 	* TBD
@@ -70,8 +70,8 @@
 * Project:
 	* Spec project for exchanging generics
 
-##### Week 2 - Core Architectures 
-###### Class 4: Monday, January 30 – Alternative Architectures 
+##### Week 2 - Core Architectures
+###### Class 4: Monday, January 30 – Alternative Architectures
 * Topics:
 	* Presentations on:
       * MVVM - Jake Zeal
@@ -95,7 +95,7 @@
 	* Intro to Testing
 
 ##### Week 3 - Core Testing
-###### Class 7: Monday, February 6 – Testing 
+###### Class 7: Monday, February 6 – Testing
 * Topics:
 	* TBD
 * Challenges:
@@ -141,7 +141,7 @@
 * Project:
 	* TBD
 
-##### Week 5 - Electives 
+##### Week 5 - Electives
 
 ###### Class 13: Monday, February 20 – TBD
 * Topics:
@@ -183,5 +183,3 @@
 	* TBD
 * Project:
 	* TBD
-
-
