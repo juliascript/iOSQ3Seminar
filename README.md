@@ -91,6 +91,8 @@
 	* Spec project TBD
 
 ###### Class 5: Wednesday, February 1 – Work Day
+* Topics: 
+	* The App Life Cycle Lightning-ish Talk
 * Challenges:
 	* TBD
 
