@@ -52,11 +52,16 @@
 
 ###### Class 2: Wednesday, January 25 – Memory Management in Swift
 * Topics:
-	* [ARC](https://medium.com/ios-seminar/swifts-arc-and-memory-leaks-1a227cae55da#.5par20op4) by Brian Hans
+	* ARC  
+		- [Medium Post](https://medium.com/ios-seminar/swifts-arc-and-memory-leaks-1a227cae55da#.5par20op4) by Brian Hans
 	* Weak , strong, and unknown self
+		- [Medium Post](https://medium.com/ios-seminar/swifts-arc-and-memory-leaks-1a227cae55da#.5par20op4) by Brian Hans
 	* Common mistakes with memory management
+		- [Medium Post](https://medium.com/ios-seminar/swifts-arc-and-memory-leaks-1a227cae55da#.5par20op4) by Brian Hans
 	* Lazy, variable observers, KVO
-	* [Table View](https://medium.com/ios-seminar/why-we-use-dequeuereusablecellwithidentifier-ce7fd97cde8e#.hatkqbc49) by Nick Swift
+	* Table View
+		- [Medium Post](https://medium.com/ios-seminar/why-we-use-dequeuereusablecellwithidentifier-ce7fd97cde8e#.hatkqbc49) by Nick Swift
+		- [Github Repo](https://github.com/Nicholas-Swift/MemoryManagementTableView)
 * Challenges:
 	* TBD
 
