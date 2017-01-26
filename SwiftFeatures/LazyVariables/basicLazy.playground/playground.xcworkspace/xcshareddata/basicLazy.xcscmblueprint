@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "390289BC1DBCB4597543B81F2281AAC58C724298",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EDAAD0A68ABE066531792545821A6D058B68A243" : 9223372036854775807,
+    "390289BC1DBCB4597543B81F2281AAC58C724298" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "16C44C05-9B93-41AA-8C7D-1C22D47E584B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EDAAD0A68ABE066531792545821A6D058B68A243" : "..\/..\/..",
+    "390289BC1DBCB4597543B81F2281AAC58C724298" : "iOSQ3Seminar\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "basicLazy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftFeatures\/LazyVariables\/basicLazy.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/juliascript\/iOSQ3Seminar.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "390289BC1DBCB4597543B81F2281AAC58C724298"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MakeSchool-18\/Data-Structures.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EDAAD0A68ABE066531792545821A6D058B68A243"
+    }
+  ]
+}
