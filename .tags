@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+author	SwiftFeatures/KeyValueObserver/KVO_Test/KVO_Test/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    "author" : "xcode"$/;"	f
+idiom	SwiftFeatures/KeyValueObserver/KVO_Test/KVO_Test/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	f
+idiom	SwiftFeatures/KeyValueObserver/KVO_Test/KVO_Test/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	f
+images	SwiftFeatures/KeyValueObserver/KVO_Test/KVO_Test/Assets.xcassets/AppIcon.appiconset/Contents.json	/^  "images" : [$/;"	f
+info	SwiftFeatures/KeyValueObserver/KVO_Test/KVO_Test/Assets.xcassets/AppIcon.appiconset/Contents.json	/^  "info" : {$/;"	f
+scale	SwiftFeatures/KeyValueObserver/KVO_Test/KVO_Test/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "1x"$/;"	f
+scale	SwiftFeatures/KeyValueObserver/KVO_Test/KVO_Test/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	f
+scale	SwiftFeatures/KeyValueObserver/KVO_Test/KVO_Test/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "3x"$/;"	f
+size	SwiftFeatures/KeyValueObserver/KVO_Test/KVO_Test/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "29x29",$/;"	f
+size	SwiftFeatures/KeyValueObserver/KVO_Test/KVO_Test/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "40x40",$/;"	f
+size	SwiftFeatures/KeyValueObserver/KVO_Test/KVO_Test/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "60x60",$/;"	f
+size	SwiftFeatures/KeyValueObserver/KVO_Test/KVO_Test/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "76x76",$/;"	f
+version	SwiftFeatures/KeyValueObserver/KVO_Test/KVO_Test/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    "version" : 1,$/;"	f
