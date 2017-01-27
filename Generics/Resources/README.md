@@ -9,3 +9,5 @@ https://www.skilled.io/u/gregheo/what-the-55-swift-standard-library-protocols-ta
 https://medium.com/@twof/advanced-swift-generics-1955499b85df#.qcx6jcj14
 https://www.topcoder.com/blog/swift-generics-practical-examples/
 https://krakendev.io/blog/generic-protocols-and-their-shortcomings
+https://docs.oracle.com/javase/tutorial/java/generics/why.html
+https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html
