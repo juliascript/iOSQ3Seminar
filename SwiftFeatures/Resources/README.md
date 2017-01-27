@@ -19,3 +19,7 @@ The `where` keyword:
 http://blog.krzyzanowskim.com/2015/11/13/where-where-may-be-used/
     Used to make sure generic parameters conform to multiple protocols.
     Can also be used to modify loops, if-let statements, guard statements and switch cases.
+
+The `mutating` keyword:
+https://www.natashatherobot.com/mutating-functions-swift-structs/
+    Normally `struct` and `enum` functions can't alter their own values, but no longer with `mutating`!
