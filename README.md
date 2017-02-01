@@ -68,7 +68,7 @@
 
 ###### Class 3: Friday, January 27 – Swift Essentials
 * Topics:
-	* Advanced generics
+	* Advanced generics — Julia Geist and Alex Reilly
 	* Documentation
 	* Lightning XCode tips
 * Challenges:
@@ -92,7 +92,7 @@
 
 ###### Class 5: Wednesday, February 1 – Work Day
 * Topics: 
-	* The App Life Cycle Lightning-ish Talk
+	* The App Life Cycle — Julia Geist
 * Challenges:
 	* TBD
 
@@ -127,7 +127,7 @@
 
 ###### Class 10: Monday, February 13 – TBD
 * Topics:
-	* TBD
+	* Concurrency with Grand Central Dispatch (GCD) and operation objects — Julia Geist
 * Challenges:
 	* TBD
 * Project:
