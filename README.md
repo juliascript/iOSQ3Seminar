@@ -93,6 +93,7 @@
 ###### Class 5: Wednesday, February 1 – Work Day
 * Topics: 
 	* The App Life Cycle — Julia Geist
+		- [Medium Post](http://juliageist.com/blog/ios-development-swift-3/app-life-cycle/) by Julia Geist
 * Challenges:
 	* TBD
 
