@@ -60,6 +60,7 @@
 	* Common mistakes with memory management
 		- [Medium Post](https://medium.com/ios-seminar/swifts-arc-and-memory-leaks-1a227cae55da#.5par20op4) by Brian Hans
 	* Lazy, variable observers, KVO
+		- [Medium Post](https://medium.com/ios-seminar/swift-3-0-lazily-stored-properties-variable-observers-kvo-ba877fed063e#.v1jfdnihp)
 	* Table View
 		- [Medium Post](https://medium.com/ios-seminar/why-we-use-dequeuereusablecellwithidentifier-ce7fd97cde8e#.hatkqbc49) by Nick Swift
 		- [Github Repo](https://github.com/Nicholas-Swift/MemoryManagementTableView)
@@ -82,9 +83,10 @@
 	* Presentations on:
       * MVVM - Jake Zeal
       * FRP - Alex Dejeu
-      * POP - Brian Hans
+      * POP - Nabil
       * MVC - Nick Swift
       * VIPER - Nick Swift
+      	- [Medium Post](https://medium.com/ios-seminar/have-you-considered-not-using-an-ios-architecture-382ff0a1dca#.1admtase1)
 * Challenges:
 	* TBD
 * Project:
@@ -97,7 +99,7 @@
 * Challenges:
 	* TBD
 
-##### Class 6: Friday, February 3 – Code Review
+###### Class 6: Friday, February 3 – Code Review
 * Topics:
 	* Code Review
 	* Discussion
@@ -106,7 +108,8 @@
 ##### Week 3 - Core Testing
 ###### Class 7: Monday, February 6 – Testing
 * Topics:
-	* TBD
+	* Unit Testing 
+		- [Medium Post](https://medium.com/ios-seminar/the-magic-of-ios-unit-testing-with-xctest-and-swift-3-8889c838b911#.757xokyof)
 * Challenges:
 	* TBD
 * Project:
@@ -129,6 +132,7 @@
 ###### Class 10: Monday, February 13 – TBD
 * Topics:
 	* Concurrency with Grand Central Dispatch (GCD) and operation objects — Julia Geist
+	* Networking without Alamofire 
 * Challenges:
 	* TBD
 * Project:
